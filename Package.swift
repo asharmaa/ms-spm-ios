@@ -18,7 +18,7 @@ let package = Package(
       name: "AppNexusSDKTarget",
       url:
         "https://acdn.adnxs.com/mobile/mtest/SwiftPM/AppNexusSDK.zip",
-      checksum: "f0f50864216a24690725f246df0b289d2eb6cc699b9da476857a0c135aeced84"
+      checksum: "f83d9588b7e012da4ef5715e5ce48742d8f609fb553b755bc549b76ec982d3c8"
     )
   ]
 )
