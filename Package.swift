@@ -6,7 +6,7 @@ import PackageDescription
 
 let package = Package(
   name: "AppNexusSDK",
-  platforms: [.iOS(.v11)],
+  platforms: [.iOS(.v14)],
   products: [
     .library(
       name: "AppNexusSDK",
