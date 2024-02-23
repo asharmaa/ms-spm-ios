@@ -17,14 +17,14 @@ let package = Package(
     .binaryTarget(
       name: "AppNexusSDKTarget",
       url:
-        "https://acdn.adnxs.com/mobile/mtest/SwiftPM/AppNexusSDK.zip",
-      checksum: "f83d9588b7e012da4ef5715e5ce48742d8f609fb553b755bc549b76ec982d3c8"
+        "file:///Users/abhishek/Documents/repo/sdk-legacy/8.11.0/dynamicframework/AppNexusSDK.xcframework.zip",
+      checksum: "8377924907206590c9087665da0bdf29d9551d11cbf738df009da94202553ba1"
     ),
       .binaryTarget(
       name: "OMSDKTarget",
       url:
-        "https://acdn.adnxs.com/mobile/mtest/SwiftPM/OMSDK_Microsoft.zip",
-      checksum: "040551ebe0fc7d0f7c0619cae436105e6d4a263a1e3ff0257aa1f92e4c3d6952"
+        "file:///Users/abhishek/Documents/repo/sdk-legacy/8.11.0/dynamicframework/OMSDK_Microsoft.zip",
+      checksum: "7f598a65c54549c846e2ec1a63b10261666fad12b98c4c35de1b18ea3dcd3978"
     )
   ]
 )
