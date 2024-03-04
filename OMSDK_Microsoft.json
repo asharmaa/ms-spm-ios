@@ -1,7 +1,3 @@
 {
-    "name": "OMSDK_Microsoft",
-    "type": "binary",
-    "url": "https://acdn.adnxs.com/mobile/mtest/SwiftPM/OMSDK_Microsoft.zip",
-    "checksum": "040551ebe0fc7d0f7c0619cae436105e6d4a263a1e3ff0257aa1f92e4c3d6952",
-    "branch": "master-2"
+    "1.0.0": "https://acdn.adnxs.com/mobile/mtest/SwiftPM/OMSDK_Microsoft.zip"
 }
